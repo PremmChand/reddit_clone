@@ -86,11 +86,11 @@ flutter run
 |----------------------------------------------------|-----------------------------------------------------|--------------------------------------|--------------------------------------------|
 | Communities | Edit Profile | Edit | Moderator |
 
-| ![Mods Detail](assets/images/screenshots/mods_detail.png) | ![Mods](assets/images/screenshots/mods.png) | ![Post Comment](assets/images/screenshots/post_comment.png) | ![Post Comment 1](assets/images/screenshots/post_comment1.png) |
+| ![Mods Detail](assets/images/screenshots/mods_detail.png) | ![Mods](assets/images/screenshots/mods.png) | ![Post Comment](assets/images/screenshots/post_comment.png) | ![Post Comment 1](assets/images/screenshots/posts_comment1.png) |
 |----------------------------------------------------|--------------------------------------|-----------------------------------------------------|------------------------------------------------------|
 | Mods Detail | Mods | Post Comment | Post Comment 1 |
 
-| ![Post Comment 2](assets/images/screenshots/post_comment2.png) | ![Post Image](assets/images/screenshots/post_image.png) | ![Post Link](assets/images/screenshots/post_link.png) | ![Post Text](assets/images/screenshots/post_text.png) |
+| ![Post Comment 2](assets/images/screenshots/posts_comment2.png) | ![Post Image](assets/images/screenshots/post_image.png) | ![Post Link](assets/images/screenshots/post_link.png) | ![Post Text](assets/images/screenshots/post_text.png) |
 |--------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------|
 | Post Comment 2 | Post Image | Post Link | Post Text |
 
