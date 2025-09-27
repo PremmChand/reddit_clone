@@ -77,28 +77,28 @@ Run the app:
 flutter run
 
 📸 ## App Screenshots
-
-| ![Login](images/screenshots/login.png) | ![Home](images/screenshots/home.png) | ![Home 1](images/screenshots/home1.png) | ![Mode](images/screenshots/mode.png) |
+    assets/
+| ![Login](assets/images/screenshots/login.png) | ![Home](assets/images/screenshots/home.png) | ![Home 1](assets/images/screenshots/home1.png) | ![Mode](assets/images/screenshots/mode.png) |
 |----------------------------------------|--------------------------------------|-----------------------------------------|-------------------------------------|
 | Login Page | Home Page | Home 1 Page | Mode Page |
 
-| ![Communities](images/screenshots/communities.png) | ![Edit Profile](images/screenshots/edit_profile.png) | ![Edit](images/screenshots/edit.png) | ![Moderator](images/screenshots/moderator.png) |
+| ![Communities](assets/images/screenshots/communities.png) | ![Edit Profile](assets/images/screenshots/edit_profile.png) | ![Edit](assets/images/screenshots/edit.png) | ![Moderator](assets/images/screenshots/moderator.png) |
 |----------------------------------------------------|-----------------------------------------------------|--------------------------------------|--------------------------------------------|
 | Communities | Edit Profile | Edit | Moderator |
 
-| ![Mods Detail](images/screenshots/mods_detail.png) | ![Mods](images/screenshots/mods.png) | ![Post Comment](images/screenshots/post_comment.png) | ![Post Comment 1](images/screenshots/post_comment1.png) |
+| ![Mods Detail](assets/images/screenshots/mods_detail.png) | ![Mods](assets/images/screenshots/mods.png) | ![Post Comment](assets/images/screenshots/post_comment.png) | ![Post Comment 1](assets/images/screenshots/post_comment1.png) |
 |----------------------------------------------------|--------------------------------------|-----------------------------------------------------|------------------------------------------------------|
 | Mods Detail | Mods | Post Comment | Post Comment 1 |
 
-| ![Post Comment 2](images/screenshots/post_comment2.png) | ![Post Image](images/screenshots/post_image.png) | ![Post Link](images/screenshots/post_link.png) | ![Post Text](images/screenshots/post_text.png) |
+| ![Post Comment 2](assets/images/screenshots/post_comment2.png) | ![Post Image](assets/images/screenshots/post_image.png) | ![Post Link](assets/images/screenshots/post_link.png) | ![Post Text](assets/images/screenshots/post_text.png) |
 |--------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|----------------------------------------------|
 | Post Comment 2 | Post Image | Post Link | Post Text |
 
-| ![Posts](images/screenshots/posts.png) | ![Posts 1](images/screenshots/posts1.png) | ![Posts 2](images/screenshots/posts2.png) | ![User Comment](images/screenshots/user_comment.png) |
+| ![Posts](assets/images/screenshots/posts.png) | ![Posts 1](assets/images/screenshots/posts1.png) | ![Posts 2](assets/images/screenshots/posts2.png) | ![User Comment](assets/images/screenshots/user_comment.png) |
 |----------------------------------------|-----------------------------------------|-----------------------------------------|--------------------------------------------|
 | Posts | Posts 1 | Posts 2 | User Comment |
 
-| ![User Profile](images/screenshots/user_profile.png) |  |  |  |
+| ![User Profile](assets/images/screenshots/user_profile.png) |  |  |  |
 |------------------------------------------------------|--|--|--|
 | User Profile |  |  |  |
 
