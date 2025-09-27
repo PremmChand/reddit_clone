@@ -57,7 +57,7 @@ Installation
 
 Clone this repo:
 
-git clone https://github.com/yourusername/reddit_clone.git
+git clone https://github.com/PremmChand/reddit_clone.git
 cd reddit_clone
 
 
@@ -102,3 +102,4 @@ flutter run
 |------------------------------------------------------|--|--|--|
 | User Profile |  |  |  |
 
+Developed by Premm Chand.
